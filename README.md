@@ -29,3 +29,8 @@ Essential tool for microbiology, genomics, and public health surveillance
 🔑 Keywords:
 
 zoonotic pathogens | antimicrobial resistance | bacterial virulence | genomic epidemiology | bioinformatics tool
+
+
+Datasets
+
+All datasets used in the development of the Zoonoticus Database v1.0 can be found at the following link: https://doi.org/10.5281/zenodo.15294863
