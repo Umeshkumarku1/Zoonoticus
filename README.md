@@ -77,6 +77,30 @@ A total of 37,291 gene sequences were used for this analysis. Below is a list of
 
 
 
+## Scoring Pattern for Bacterial Classification
+
+Zoonoticus Database v1.0 isn’t just about identifying bacterial risks – it **scores** them!
+
+Using a scoring pattern based on key traits like **Zoonotic Potential**, **Resistance**, **Mobile Elements**, and **Virulence**, each bacterium is assigned a risk score. The higher the score, the greater the risk.
+
+### How It Works:
+- **Zoonotic Potential**: A "Highly Zoonotic" classification automatically triggers a higher score (3 points) and is classified as **Potential Zoonotic Bacteria**.
+- **Resistance**: Bacteria with resistance traits earn additional points (2 points for resistance).
+- **Mobile Elements**: Presence of mobile elements adds 1 point.
+- **Virulence**: Low virulence bacteria add a lesser weight (1 point).
+
+### Final Classification:
+Based on the accumulated score, bacteria are classified into risk categories such as:
+- **Highly Dangerous-Zoonotic Bacteria**: High zoonotic risk, resistance, and mobile elements.
+- **High-Risk Zoonotic Bacteria**: High zoonotic risk and resistance (without mobile elements).
+- **Resistance Threat Bacteria**: Resistance with mobile elements, but no zoonotic risk.
+- **Virulent Bacteria**: Low zoonotic risk and low resistance but still potentially virulent.
+- **Low Risk Bacteria**: Minimal zoonotic, resistance, and virulence traits.
+
+This innovative scoring system adds depth to classification, offering **data-driven insights** to help researchers quickly pinpoint high-risk zoonotic pathogens.
+
+
+
 🔑 Keywords:
 
 zoonotic pathogens | antimicrobial resistance | bacterial virulence | genomic epidemiology | bioinformatics tool
