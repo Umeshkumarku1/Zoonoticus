@@ -1,5 +1,7 @@
-🦠 Zoonoticus Database v1.0
-Zoonoticus Database v1.0 is a cutting-edge resource designed to predict the zoonotic potential, resistance gene transfer capability, and virulence risk of bacterial pathogens.
+🦠 Zoonoticus
+
+
+Zoonoticus is a cutting-edge resource designed to predict the zoonotic potential, resistance gene transfer capability, and virulence risk of bacterial pathogens.
 Built using Zento, this database powers an advanced classification pipeline to help researchers and bioinformaticians rapidly identify bacteria that pose a serious threat to human and animal health.
 
 
