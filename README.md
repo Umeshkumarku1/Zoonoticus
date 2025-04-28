@@ -1,17 +1,24 @@
-🌟 Introducing Zoonoticus 🌟
-Your Ultimate Weapon Against Emerging Zoonotic Threats
+🦠 Zoonoticus Database v1.0
+Zoonoticus Database v1.0 is a cutting-edge resource designed to predict the zoonotic potential, resistance gene transfer capability, and virulence risk of bacterial pathogens.
+Built using Zento, this database powers an advanced classification pipeline to help researchers and bioinformaticians rapidly identify bacteria that pose a serious threat to human and animal health.
 
-🔬 Detect zoonotic potential.
-🛡️ Identify resistance gene transfer risks.
-⚡ Predict bacterial virulence — before it's too late!
+✨ Features
+Zoonotic Potential Detection
 
-Built with cutting-edge technology in Zento, Zoonoticus Database v1.0 empowers researchers, scientists, and health professionals to track, predict, and counter bacterial pathogens that jump from animals to humans.
+Resistance Gene Transfer Risk Prediction
 
-✅ Stay ahead of resistance outbreaks
-✅ Uncover hidden virulence factors
-✅ Protect global health with early zoonotic detection
+Virulence Factor Profiling
 
-🧠 Data-driven. Fast. Reliable.
-Because when it comes to infectious diseases, knowledge is survival.
+Rule-based & Machine Learning Integration
 
-🚀 Stay ahead with Zoonoticus. Detect today, protect tomorrow.
+⚡ Why Zoonoticus?
+Fast, accurate screening of whole genome data
+
+Early detection of zoonotic threats
+
+Data-driven support for infectious disease research and epidemiology
+
+Essential tool for microbiology, genomics, and public health surveillance
+
+🔑 Keywords
+zoonotic pathogens | antimicrobial resistance | bacterial virulence | genomic epidemiology | bioinformatics tool
