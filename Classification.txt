@@ -1,0 +1,47 @@
+Virulence	Resistance	Mobile Element	Classification
+Dangerously Virulent	Dangerously Resistant	Genomic Instability	Critical Threat: Highly Dangerous Zoonotic Bacterial Strain
+Dangerously Virulent	Dangerously Resistant	Potential Horizontal Gene Transfer	Critical Threat: Highly Dangerous Zoonotic Bacterial Strain
+Dangerously Virulent	Dangerously Resistant	None	Critical Threat: Highly Dangerous Zoonotic Bacterial Strain
+Dangerously Virulent	Strong Resistance	Genomic Instability	High Threat: Virulent and Resistant Zoonotic Bacterial Strain
+Dangerously Virulent	Strong Resistance	Potential Horizontal Gene Transfer	High Threat: Virulent and Resistant Zoonotic Bacterial Strain
+Dangerously Virulent	Strong Resistance	None	High Threat: Virulent and Resistant Zoonotic Bacterial Strain
+Dangerously Virulent	Early Resistance Detected	Genomic Instability	High Threat: Virulent and Resistant Zoonotic Bacterial Strain
+Dangerously Virulent	Early Resistance Detected	Potential Horizontal Gene Transfer	High Threat: Virulent and Resistant Zoonotic Bacterial Strain
+Dangerously Virulent	Early Resistance Detected	None	High Threat: Virulent and Resistant Zoonotic Bacterial Strain
+Dangerously Virulent	No Resistance Detected	Genomic Instability	Moderately-High Threat: Virulent Zoonotic Bacterial Strain
+Dangerously Virulent	No Resistance Detected	Potential Horizontal Gene Transfer	Moderately-High Threat: Virulent Zoonotic Bacterial Strain
+Dangerously Virulent	No Resistance Detected	None	Moderately-High Threat: Virulent Zoonotic Bacterial Strain
+Strong Virulence	Dangerously Resistant	Genomic Instability	High Threat: Virulent and Resistant Zoonotic Bacterial Strain
+Strong Virulence	Dangerously Resistant	Potential Horizontal Gene Transfer	High Threat: Virulent and Resistant Zoonotic Bacterial Strain
+Strong Virulence	Dangerously Resistant	None	High Threat: Virulent and Resistant Zoonotic Bacterial Strain
+Strong Virulence	Strong Resistance	Genomic Instability	Very High Threat: Potentially Dangerous Zoonotic Bacterial Strain
+Strong Virulence	Strong Resistance	Potential Horizontal Gene Transfer	Very High Threat: Potentially Dangerous Zoonotic Bacterial Strain
+Strong Virulence	Strong Resistance	None	Very High Threat: Potentially Dangerous Zoonotic Bacterial Strain
+Strong Virulence	Early Resistance Detected	Genomic Instability	High Threat: Virulent and Resistant Zoonotic Bacterial Strain
+Strong Virulence	Early Resistance Detected	Potential Horizontal Gene Transfer	High Threat: Virulent and Resistant Zoonotic Bacterial Strain
+Strong Virulence	Early Resistance Detected	None	High Threat: Virulent and Resistant Zoonotic Bacterial Strain
+Strong Virulence	No Resistance Detected	Genomic Instability	Moderately-High Threat: Virulent Zoonotic Bacterial Strain
+Strong Virulence	No Resistance Detected	Potential Horizontal Gene Transfer	Moderately-High Threat: Virulent Zoonotic Bacterial Strain
+Strong Virulence	No Resistance Detected	None	Moderately-High Threat: Virulent Zoonotic Bacterial Strain
+Early Sign of Virulence	Dangerously Resistant	Genomic Instability	Low Risk Bacterial Strain
+Early Sign of Virulence	Dangerously Resistant	Potential Horizontal Gene Transfer	Low Risk Bacterial Strain
+Early Sign of Virulence	Dangerously Resistant	None	Low Risk Bacterial Strain
+Early Sign of Virulence	Strong Resistance	Genomic Instability	Low Risk Bacterial Strain
+Early Sign of Virulence	Strong Resistance	Potential Horizontal Gene Transfer	Low Risk Bacterial Strain
+Early Sign of Virulence	Strong Resistance	None	Low Risk Bacterial Strain
+Early Sign of Virulence	Early Resistance Detected	Genomic Instability	Low Risk Bacterial Strain
+Early Sign of Virulence	Early Resistance Detected	Potential Horizontal Gene Transfer	Low Risk Bacterial Strain
+Early Sign of Virulence	Early Resistance Detected	None	Low Risk Bacterial Strain
+Early Sign of Virulence	No Resistance Detected	Genomic Instability	Potential Early Risk: Virulent Bacterial Strain
+Early Sign of Virulence	No Resistance Detected	Potential Horizontal Gene Transfer	Potential Early Risk: Virulent Bacterial Strain
+Early Sign of Virulence	No Resistance Detected	None	Potential Early Risk: Virulent Bacterial Strain
+No Virulence Detected	Dangerously Resistant	Genomic Instability	Resistance Threat with Genomic Instability
+No Virulence Detected	Dangerously Resistant	Potential Horizontal Gene Transfer	Resistance Threat with Potential for Horizontal Gene Transfer
+No Virulence Detected	Dangerously Resistant	None	Moderate Threat: Resistant Zoonotic Bacterial Strain
+No Virulence Detected	Strong Resistance	Genomic Instability	Resistance Threat with Genomic Instability
+No Virulence Detected	Strong Resistance	Potential Horizontal Gene Transfer	Resistance Threat with Potential for Horizontal Gene Transfer
+No Virulence Detected	Strong Resistance	None	Moderate Threat: Resistant Zoonotic Bacterial Strain
+No Virulence Detected	Early Resistance Detected	Genomic Instability	Potential Resistant Bacterial Strain
+No Virulence Detected	Early Resistance Detected	Potential Horizontal Gene Transfer	Potential Resistant Bacterial Strain
+No Virulence Detected	Early Resistance Detected	None	Potential Resistant Bacterial Strain
+No Virulence Detected	No Resistance Detected	Any	Low Risk Bacterial Strain
