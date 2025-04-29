@@ -9,7 +9,7 @@ import seaborn as sns
 import numpy as np
 
 # Load dataset
-matrix_path = r"C:\Users\USER\Downloads\matrix.csv"  # Use raw string literals for paths
+matrix_path = r"C:\Users\USER\Downloads\april18\april18\Matrix.csv"  # Use raw string literals for paths
 df = pd.read_csv(matrix_path)
 
 # Drop non-feature columns
@@ -28,14 +28,14 @@ for col in df.columns:
 X = df.drop(columns=["Final_Classification"])
 y = df["Final_Classification"]
 
-# Split the dataset
+# Split the dataset into training and test sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# Train Random Forest
+# Train the Random Forest model
 model = RandomForestClassifier(n_estimators=100, random_state=42)
 model.fit(X_train, y_train)
 
-# Evaluate
+# Evaluate the model
 y_pred = model.predict(X_test)
 print("📊 Classification Report:\n", classification_report(y_test, y_pred))
 print("🧩 Confusion Matrix:\n", confusion_matrix(y_test, y_pred))
@@ -48,15 +48,17 @@ plt.title('Confusion Matrix')
 plt.xlabel('Predicted')
 plt.ylabel('True')
 
-# Save the confusion matrix as a PNG
-conf_matrix_path = r"C:\Users\USER\Downloads\april18\april18\confusion_matrix.png" # Use raw string literals
+# Save the confusion matrix as a PNG image
+conf_matrix_path = r"C:\Users\USER\Downloads\april18\april18\confusion_matrix.png"  # Use raw string literals for paths
 plt.savefig(conf_matrix_path)
 
-# Close the plot
+# Close the plot to avoid it displaying multiple times
 plt.close()
 
-# Save the model
+# Save the trained model using joblib
 model_path = r"C:\Users\USER\Downloads\april18\april18\random_forest_model-MAIN.pkl"  # Use raw string literals
 joblib.dump(model, model_path)
+
+# Print success messages
 print(f"✅ Model saved to: {model_path}")
 print(f"✅ Confusion Matrix saved to: {conf_matrix_path}")
