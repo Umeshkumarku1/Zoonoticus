@@ -99,8 +99,6 @@ Based on the accumulated score, bacteria are classified into risk categories suc
 
 This innovative scoring system adds depth to classification, offering **data-driven insights** to help researchers quickly pinpoint high-risk zoonotic pathogens.
 
-If you use Zoonoticus in your research, please cite:
-Umeshkumar, K. U., & Karwasra, R. (2025). Zoonoticus: A Machine Learning Model for Genomic Prediction of Zoonotic Bacterial Strains Using Virulence, Resistance, and Mobile Genetic Elements. Computational Biology and Chemistry, 108760.Doi:https://doi.org/10.1016/j.compbiolchem.2025.108760
 
 🔑 Keywords:
 
@@ -110,3 +108,7 @@ zoonotic pathogens | antimicrobial resistance | bacterial virulence | genomic ep
 Datasets:
 
 All datasets used in the development of the Zoonoticus Database v1.0 can be found at the following link: https://doi.org/10.5281/zenodo.15294863
+
+If you use Zoonoticus in your research, please cite: Umeshkumar, K. U., & Karwasra, R. (2025). Zoonoticus: A Machine Learning Model for Genomic Prediction of Zoonotic Bacterial Strains Using Virulence, Resistance, and Mobile Genetic Elements. Computational Biology and Chemistry, 108760.Doi:https://doi.org/10.1016/j.compbiolchem.2025.108760
+
+
